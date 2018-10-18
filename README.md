@@ -13,10 +13,13 @@ For sentences from list company announcements, we read each announment files and
 each sentence and judged whether it contained keyword. We wrote those containing keywords into files. After that, we also need to label the 
 sentences according to whether they really express industry relation. which is time-costing but unavoidable work in supervised learning.<br><br>
 For sentences from Yelp, we just need to extract them and their labels from json. And write the sentences into files with their labels in right order. It's more convenient compared with data above.
-## Word Embedding
+## Word embedding
 One of the most important procedures in classification is how to represent features of samples. In NLP, word embedding is a revolutionary tool for text representation as each word can be distributed a vector which is embedded word semantic.<br><br>
 For sentences of relation classification(self-made), we used all the sentences to train word embedding with Python gensim. <br>
 For sentences of sentiment classification(public), we used pre-trained word embedding of Glove. <br><br>
 The first dataset is Chinese dataset, and there is rarely public pre-trained Chinese word embedding, so we needed to train it by ourselves. 
 By the way, the quality of word embedding trained by our own text may be not vary satisifying and adaptable as scale of our text is limited. But it really convenient and fast.
 However, there're several public pre-trained English word embeddings, such as Glove, FastText. We used Glove here.
+## Sentence feature vector
+After we got word embedding, we needed to take into consideration how to construct sentence feature vectors based on word embedding. Here we used a simple but effetive way to do it.<br><br>
+Considering a sentence contains n words, we sum up all the vectors of n words with different weights. The weights can be TF-ITF or calculated based on word frequence. The reason why we represented sentences like this is based on the hypothesis that word embedding can represent word semantic and the sum of them can also embed sentence semantic in a way. And weight of each word is ralated to the importance of the word in the sentence, so we can try to increase effect of key words for sentence feature vectors.
