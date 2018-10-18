@@ -1,0 +1,864 @@
+我国 pos freq:21 neg freq:25
+产品 pos freq:416 neg freq:514
+下游 pos freq:1686 neg freq:2581
+为 pos freq:401 neg freq:217
+和 pos freq:486 neg freq:620
+公共 pos freq:2 neg freq:3
+作为 pos freq:55 neg freq:51
+上游 pos freq:1194 neg freq:1159
+产业链 pos freq:223 neg freq:202
+煤炭 pos freq:233 neg freq:145 ------------------
+持续 pos freq:48 neg freq:71
+集中 pos freq:25 neg freq:21
+需求 pos freq:197 neg freq:287
+起 pos freq:8 neg freq:9
+及 pos freq:372 neg freq:384
+研发 pos freq:64 neg freq:55
+生产 pos freq:272 neg freq:195
+销售 pos freq:121 neg freq:218
+供应链 pos freq:63 neg freq:75
+范围 pos freq:3 neg freq:5
+服务 pos freq:38 neg freq:65
+管理 pos freq:59 neg freq:32
+基础 pos freq:36 neg freq:49
+且 pos freq:18 neg freq:33
+终端 pos freq:104 neg freq:101
+提供 pos freq:48 neg freq:70
+融资 pos freq:9 neg freq:17
+公司 pos freq:469 neg freq:494
+与 pos freq:162 neg freq:269
+原材料 pos freq:54 neg freq:38
+产业 pos freq:134 neg freq:143
+主要 pos freq:120 neg freq:81
+运营商 pos freq:5 neg freq:4
+付款 pos freq:2 neg freq:4
+规模 pos freq:54 neg freq:48
+增加 pos freq:27 neg freq:49
+受到 pos freq:37 neg freq:31
+一定 pos freq:29 neg freq:42
+通信 pos freq:20 neg freq:12---------------------
+设计 pos freq:11 neg freq:13
+是 pos freq:296 neg freq:212
+建设 pos freq:60 neg freq:33
+过程 pos freq:9 neg freq:18
+基于 pos freq:5 neg freq:8
+运营 pos freq:34 neg freq:18---------------------
+领域 pos freq:69 neg freq:79
+形成 pos freq:30 neg freq:50
+拥有 pos freq:18 neg freq:22
+自主 pos freq:3 neg freq:6
+知识 pos freq:2 neg freq:4
+产权 pos freq:2 neg freq:3
+国际 pos freq:30 neg freq:23
+企业 pos freq:328 neg freq:197
+品牌 pos freq:16 neg freq:29
+系统 pos freq:14 neg freq:11------------------------
+化学 pos freq:6 neg freq:10------------------------
+原料 pos freq:43 neg freq:47
+天然气 pos freq:80 neg freq:52------------------------
+业务 pos freq:235 neg freq:123
+存在 pos freq:20 neg freq:28
+中国 pos freq:26 neg freq:37
+设施 pos freq:9 neg freq:8
+本次 pos freq:16 neg freq:11
+并购 pos freq:4 neg freq:2
+上市 pos freq:21 neg freq:25
+经营 pos freq:39 neg freq:78
+运输 pos freq:44 neg freq:32-----------------------------
+以及 pos freq:125 neg freq:133
+获得 pos freq:19 neg freq:24
+可 pos freq:24 neg freq:38
+输送 pos freq:6 neg freq:3
+环节 pos freq:28 neg freq:32
+液化 pos freq:10 neg freq:8----------------------------
+由 pos freq:38 neg freq:40
+用户 pos freq:61 neg freq:34
+属于 pos freq:22 neg freq:20
+竞争 pos freq:33 neg freq:49
+优势 pos freq:20 neg freq:40
+生产商 pos freq:10 neg freq:6
+国家 pos freq:15 neg freq:16
+收入 pos freq:16 neg freq:12
+设备 pos freq:27 neg freq:21
+构成 pos freq:7 neg freq:13
+如 pos freq:7 neg freq:6
+提出 pos freq:15 neg freq:13
+计划 pos freq:16 neg freq:23
+后 pos freq:33 neg freq:59
+安排 pos freq:12 neg freq:6
+救生 pos freq:2 neg freq:3
+由于 pos freq:105 neg freq:103
+其 pos freq:105 neg freq:122
+关联性 pos freq:2 neg freq:1
+技术 pos freq:72 neg freq:87
+要求 pos freq:27 neg freq:53
+选定 pos freq:3 neg freq:3
+单位 pos freq:5 neg freq:6
+下降 pos freq:22 neg freq:34
+提升 pos freq:45 neg freq:48
+拉动 pos freq:4 neg freq:6
+综合 pos freq:12 neg freq:11
+整合 pos freq:36 neg freq:25
+扩大 pos freq:33 neg freq:17
+趋势 pos freq:14 neg freq:24
+锂电池 pos freq:33 neg freq:21--------------------------
+处于 pos freq:42 neg freq:53
+目前 pos freq:26 neg freq:45
+发展 pos freq:172 neg freq:194
+标的 pos freq:42 neg freq:41
+出现 pos freq:34 neg freq:45
+亏损 pos freq:5 neg freq:8
+近年来 pos freq:4 neg freq:7
+产能 pos freq:78 neg freq:113
+速度 pos freq:23 neg freq:17
+钢铁 pos freq:94 neg freq:57----------------------------
+玻璃 pos freq:24 neg freq:26----------------------------
+导致 pos freq:22 neg freq:32
+中间 pos freq:15 neg freq:29
+节能 pos freq:3 neg freq:6
+升级 pos freq:10 neg freq:13
+进入 pos freq:18 neg freq:12
+代理商 pos freq:10 neg freq:11
+制造商 pos freq:36 neg freq:34
+玻纤 pos freq:7 neg freq:9------------------------
+重视 pos freq:7 neg freq:5
+给予 pos freq:14 neg freq:7
+能 pos freq:26 neg freq:37
+厂商 pos freq:76 neg freq:108
+资格 pos freq:4 neg freq:4
+继续 pos freq:13 neg freq:25
+以 pos freq:42 neg freq:38
+促进 pos freq:8 neg freq:9
+伙伴 pos freq:5 neg freq:8
+外 pos freq:3 neg freq:5
+制药 pos freq:2 neg freq:2---------------------------
+创新 pos freq:8 neg freq:9
+从 pos freq:95 neg freq:76
+开发 pos freq:75 neg freq:96
+需要 pos freq:20 neg freq:38
+投资 pos freq:39 neg freq:55
+检修 pos freq:4 neg freq:7
+药品 pos freq:54 neg freq:35----------------------------
+负责 pos freq:9 neg freq:17
+含 pos freq:4 neg freq:3
+以下 pos freq:7 neg freq:12
+简称 pos freq:7 neg freq:10
+对于 pos freq:28 neg freq:23
+承受 pos freq:2 neg freq:1
+数量 pos freq:4 neg freq:3
+具有 pos freq:39 neg freq:43
+自身 pos freq:12 neg freq:23
+模式 pos freq:14 neg freq:19
+特点 pos freq:17 neg freq:13
+贸易 pos freq:28 neg freq:29
+品种 pos freq:13 neg freq:11
+国内 pos freq:73 neg freq:85
+稀土 pos freq:82 neg freq:62-----------------------------
+带动 pos freq:29 neg freq:20
+环保 pos freq:22 neg freq:19
+增长 pos freq:63 neg freq:60
+原因 pos freq:13 neg freq:25
+选矿 pos freq:3 neg freq:6
+延伸 pos freq:86 neg freq:100
+高端 pos freq:9 neg freq:9
+进而 pos freq:2 neg freq:4
+发行人 pos freq:9 neg freq:14
+下滑 pos freq:25 neg freq:17
+地区 pos freq:14 neg freq:15
+掌控 pos freq:7 neg freq:9
+主导 pos freq:7 neg freq:7
+考虑 pos freq:13 neg freq:19
+到 pos freq:93 neg freq:83
+流动资金 pos freq:6 neg freq:4
+占 pos freq:16 neg freq:18
+业绩 pos freq:16 neg freq:25
+如下 pos freq:8 neg freq:10
+钢材 pos freq:12 neg freq:20----------------------------
+覆盖 pos freq:9 neg freq:11
+项 pos freq:5 neg freq:8
+销量 pos freq:2 neg freq:4
+出 pos freq:6 neg freq:3
+新兴 pos freq:6 neg freq:12
+光纤 pos freq:6 neg freq:8---------------------------
+刺激 pos freq:2 neg freq:3
+至 pos freq:38 neg freq:22
+铜 pos freq:4 neg freq:4--------------------
+电缆 pos freq:2 neg freq:3-----------------------
+光通信 pos freq:3 neg freq:3----------------------
+分析 pos freq:20 neg freq:14
+涨价 pos freq:3 neg freq:2
+参与 pos freq:3 neg freq:3
+金融 pos freq:3 neg freq:5
+依赖 pos freq:5 neg freq:6
+收购 pos freq:12 neg freq:18
+核心 pos freq:31 neg freq:16
+储备 pos freq:3 neg freq:2
+上述 pos freq:17 neg freq:12
+有利于 pos freq:18 neg freq:27
+新建 pos freq:2 neg freq:3
+供 pos freq:5 neg freq:4
+利用 pos freq:56 neg freq:28
+有 pos freq:61 neg freq:59
+公路 pos freq:13 neg freq:8
+港口 pos freq:10 neg freq:19
+这 pos freq:18 neg freq:10
+若 pos freq:8 neg freq:9
+负面 pos freq:1 neg freq:2
+配件 pos freq:1 neg freq:1
+零部件 pos freq:10 neg freq:7-----------------------------
+转型 pos freq:4 neg freq:5
+不振 pos freq:6 neg freq:9
+污染 pos freq:7 neg freq:5
+之一 pos freq:11 neg freq:14
+提高 pos freq:10 neg freq:17
+比 pos freq:6 neg freq:8
+并且 pos freq:6 neg freq:7
+燃气 pos freq:3 neg freq:6------------------------------
+集团 pos freq:14 neg freq:19
+国内外 pos freq:8 neg freq:11
+物流 pos freq:48 neg freq:38-------------------------------
+立足 pos freq:6 neg freq:5
+优质 pos freq:23 neg freq:42
+平台 pos freq:10 neg freq:18
+不仅 pos freq:5 neg freq:10
+开辟 pos freq:3 neg freq:6
+而且 pos freq:4 neg freq:4
+粮源 pos freq:2 neg freq:4------------------------------
+中小 pos freq:6 neg freq:3
+产区 pos freq:6 neg freq:7
+优化 pos freq:3 neg freq:6
+可能 pos freq:14 neg freq:17
+上升 pos freq:5 neg freq:9
+完成 pos freq:9 neg freq:11
+募集 pos freq:6 neg freq:7
+工作 pos freq:9 neg freq:8
+其中 pos freq:13 neg freq:8
+高效 pos freq:8 neg freq:7
+附加值 pos freq:25 neg freq:24
+外部 pos freq:4 neg freq:4
+漆包线 pos freq:8 neg freq:6---------------------------------
+交流 pos freq:2 neg freq:2
+电池 pos freq:92 neg freq:92--------------------------------
+回收 pos freq:5 neg freq:4
+基地 pos freq:16 neg freq:14
+动力 pos freq:15 neg freq:8
+萎缩 pos freq:21 neg freq:26
+发行 pos freq:5 neg freq:7
+购买 pos freq:5 neg freq:3
+主营业务 pos freq:12 neg freq:11
+扩展 pos freq:3 neg freq:3
+聚乙烯醇 pos freq:50 neg freq:67-------------------------------
+光学 pos freq:10 neg freq:5------------------------------
+科技 pos freq:38 neg freq:23
+产业化 pos freq:5 neg freq:3
+光学膜 pos freq:18 neg freq:17--------------------------------
+用途 pos freq:6 neg freq:10
+皖维 pos freq:14 neg freq:16
+竞争力 pos freq:4 neg freq:8
+显示 pos freq:5 neg freq:6
+从而 pos freq:8 neg freq:9
+子公司 pos freq:13 neg freq:16
+武汉 pos freq:3 neg freq:2
+合同 pos freq:11 neg freq:20
+故 pos freq:2 neg freq:1
+推广 pos freq:2 neg freq:2
+光电 pos freq:13 neg freq:15------------------------------------
+差异化 pos freq:6 neg freq:3
+装置 pos freq:18 neg freq:15
+关停 pos freq:2 neg freq:4
+不可 pos freq:2 neg freq:2
+停产 pos freq:7 neg freq:9
+传统 pos freq:18 neg freq:10
+纤维 pos freq:38 neg freq:24--------------------------------------
+效率 pos freq:4 neg freq:3
+精制 pos freq:7 neg freq:4
+方案 pos freq:11 neg freq:18
+容量 pos freq:12 neg freq:14
+食品 pos freq:11 neg freq:14
+泰 pos freq:10 neg freq:5
+类 pos freq:17 neg freq:24
+端 pos freq:6 neg freq:4
+华润赛科 pos freq:2 neg freq:4
+对象 pos freq:7 neg freq:7
+挤压 pos freq:4 neg freq:8
+奠定 pos freq:3 neg freq:5
+一体化 pos freq:15 neg freq:11
+扩张 pos freq:10 neg freq:18
+带来 pos freq:10 neg freq:9
+可持续性 pos freq:8 neg freq:12
+强化 pos freq:7 neg freq:5
+低价 pos freq:4 neg freq:2
+磷 pos freq:13 neg freq:14---------------------
+链向 pos freq:6 neg freq:5
+电站 pos freq:16 neg freq:13
+特性 pos freq:4 neg freq:6
+设立 pos freq:5 neg freq:10
+云南 pos freq:4 neg freq:3
+黄磷 pos freq:19 neg freq:14--------------------
+幅度 pos freq:4 neg freq:2
+份额 pos freq:4 neg freq:5
+出口 pos freq:8 neg freq:5
+重化工 pos freq:2 neg freq:1
+聚氯乙烯 pos freq:16 neg freq:27---------------------
+呈现 pos freq:4 neg freq:2
+供给量 pos freq:2 neg freq:3
+能耗 pos freq:4 neg freq:4
+控制器 pos freq:10 neg freq:7---------------------
+一方面 pos freq:11 neg freq:17
+门槛 pos freq:3 neg freq:4
+支撑 pos freq:8 neg freq:14
+特征 pos freq:8 neg freq:7
+铝 pos freq:17 neg freq:16---------------------
+塑料 pos freq:11 neg freq:19--------------------
+规模化 pos freq:11 neg freq:11
+两头 pos freq:2 neg freq:4
+参股 pos freq:6 neg freq:6
+研究 pos freq:13 neg freq:21
+资源型 pos freq:1 neg freq:2
+气 pos freq:3 neg freq:6
+多重 pos freq:4 neg freq:8
+缺口 pos freq:2 neg freq:2
+预测 pos freq:7 neg freq:4
+低迷 pos freq:9 neg freq:7
+磷矿石 pos freq:31 neg freq:20--------------------
+甲醛 pos freq:4 neg freq:2--------------------
+发达国家 pos freq:4 neg freq:2
+致使 pos freq:4 neg freq:2
+最终 pos freq:7 neg freq:5
+原煤 pos freq:4 neg freq:2---------------------
+把 pos freq:2 neg freq:4
+我 pos freq:1 neg freq:1
+纸袋 pos freq:3 neg freq:4---------------------
+呈 pos freq:7 neg freq:5
+同类 pos freq:1 neg freq:2
+没有 pos freq:4 neg freq:4
+复苏 pos freq:10 neg freq:6
+ALBO pos freq:2 neg freq:2
+群体 pos freq:5 neg freq:4
+传输 pos freq:2 neg freq:3
+为主 pos freq:9 neg freq:9
+即 pos freq:3 neg freq:5
+家 pos freq:24 neg freq:25
+焦煤 pos freq:2 neg freq:2----------------------
+限制 pos freq:2 neg freq:3
+驱动 pos freq:2 neg freq:4
+广告 pos freq:1 neg freq:2
+达到 pos freq:3 neg freq:4
+加之 pos freq:4 neg freq:6
+则 pos freq:11 neg freq:10
+双刃剑 pos freq:21 neg freq:31
+版权 pos freq:8 neg freq:5
+人员 pos freq:9 neg freq:7
+请 pos freq:4 neg freq:5
+培训 pos freq:4 neg freq:2
+运行 pos freq:3 neg freq:6
+有着 pos freq:2 neg freq:3
+联系 pos freq:6 neg freq:4
+特定 pos freq:2 neg freq:2
+科研 pos freq:1 neg freq:1
+锂矿 pos freq:6 neg freq:3---------------------
+锂离子 pos freq:28 neg freq:51---------------------
+趋于 pos freq:4 neg freq:2
+链条 pos freq:6 neg freq:7
+园区 pos freq:5 neg freq:8
+有机硅 pos freq:18 neg freq:27--------------------------
+分布 pos freq:14 neg freq:15
+表现 pos freq:9 neg freq:5
+肥料 pos freq:5 neg freq:3--------------------
+工业级 pos freq:4 neg freq:6
+各个 pos freq:3 neg freq:6
+非公开 pos freq:2 neg freq:3
+深入 pos freq:6 neg freq:3
+下跌 pos freq:9 neg freq:15
+探索 pos freq:2 neg freq:3
+标准化 pos freq:6 neg freq:6
+转换 pos freq:11 neg freq:9
+封装 pos freq:7 neg freq:13
+锂 pos freq:12 neg freq:6----------------------
+江苏 pos freq:8 neg freq:7
+电芯 pos freq:8 neg freq:6
+模组 pos freq:2 neg freq:4
+节奏 pos freq:2 neg freq:3
+移动 pos freq:5 neg freq:7
+成长 pos freq:5 neg freq:10
+效益 pos freq:7 neg freq:12
+供热 pos freq:5 neg freq:4
+氟 pos freq:4 neg freq:3-----------------------
+烧碱 pos freq:8 neg freq:8---------------------
+己内酰胺 pos freq:4 neg freq:3--------------------
+化学品 pos freq:10 neg freq:7---------------------
+预计 pos freq:8 neg freq:9
+龙头 pos freq:5 neg freq:3
+同期 pos freq:2 neg freq:3
+实业 pos freq:2 neg freq:2
+多晶硅 pos freq:22 neg freq:12---------------------
+神舟 pos freq:2 neg freq:1
+谈判 pos freq:8 neg freq:10
+股权 pos freq:2 neg freq:3
+管道 pos freq:5 neg freq:5
+协助 pos freq:4 neg freq:2
+才 pos freq:6 neg freq:11
+研发商 pos freq:15 neg freq:8
+桥梁 pos freq:5 neg freq:8
+手游 pos freq:4 neg freq:6---------------------
+化妆品 pos freq:4 neg freq:5------------------
+因为 pos freq:5 neg freq:5
+兽药 pos freq:5 neg freq:3----------------------
+原料药 pos freq:2 neg freq:2----------------------
+靶材 pos freq:3 neg freq:2--------------------
+LED pos freq:10 neg freq:8
+超过 pos freq:2 neg freq:3
+软件 pos freq:5 neg freq:3
+能否 pos freq:2 neg freq:3
+IC pos freq:3 neg freq:2
+刚性 pos freq:3 neg freq:5
+同行业 pos freq:4 neg freq:3
+后续 pos freq:2 neg freq:3
+百分点 pos freq:3 neg freq:2
+型材 pos freq:3 neg freq:2
+蒸汽 pos freq:9 neg freq:13
+丙烯腈 pos freq:6 neg freq:7---------------------
+自治区 pos freq:3 neg freq:2
+锆 pos freq:5 neg freq:8
+除了 pos freq:2 neg freq:3
+养殖场 pos freq:5 neg freq:3--------------------------
+天然 pos freq:3 neg freq:5
+内容 pos freq:3 neg freq:2
+全年 pos freq:2 neg freq:2
+甲苯 pos freq:2 neg freq:4------------------------------
+相关性 pos freq:2 neg freq:2
+星火厂 pos freq:3 neg freq:2
+
+推动:1.83333
+传统:1.83333
+企业:1.8172
+为:1.7897
+系统:1.77778***********************
+运营:1.77273**************************
+兽药:1.75*************************
+联系:1.75
+龙头:1.75
+差异化:1.75
+研发商:1.75
+中小:1.75
+扩大:1.71429
+管理:1.6875
+呈现:1.66667
+趋于:1.66667
+协助:1.66667
+特征:1.66667
+并购:1.66667
+表现:1.66667
+近年:1.66667
+电芯:1.66667**********************
+加重:1.66667
+固定资产:1.66667
+节奏:1.66667
+经过:1.66667
+钢铁:1.63636***********************
+给予:1.625
+药品:1.61765
+通信:1.61538**********************
+锂电池:1.6087**********************
+建设:1.60526
+用:1.6
+其中:1.6
+重视:1.6
+引发:1.6
+动力:1.6
+出:1.6
+科技:1.58333
+下滑:1.57895
+磷矿石:1.57895**********************
+光学:1.57143**********************
+高效:1.57143
+多晶硅:1.5625**********************
+公路:1.55556**********************
+是:1.54359
+用户:1.52778
+星火厂:1.5
+煤炭:1.5***********************
+关联性:1.5
+没有:1.5
+靶材:1.5
+群体:1.5
+发行:1.5
+园区:1.5
+购买:1.5
+出口:1.5
+整合:1.5
+凡卓:1.5
+输送:1.5
+原材料:1.48718
+带动:1.47826
+天然气:1.46154**********************
+运输:1.45161
+为主:1.42857
+标准化:1.4
+强化:1.4
+航运:1.4**********************
+流动资金:1.4
+制造商:1.4
+以:1.39394
+收入:1.38462
+复苏:1.375
+人员:1.375
+江苏:1.375
+生产:1.37186
+综合:1.36364
+品种:1.36364
+主要:1.36047
+进入:1.35714
+特点:1.35714
+集中:1.35
+型材:1.33333
+缺口:1.33333
+武汉:1.33333
+如:1.33333
+涨价:1.33333
+一体化:1.33333
+重化工:1.33333*************************
+原料药:1.33333***********************
+模组:1.33333
+这些:1.33333
+神舟:1.33333
+实业:1.33333
+污染:1.33333
+甲醛:1.33333***************************
+费用:1.33333
+精制:1.33333
+受到:1.32143
+对于:1.31818
+稀土:1.30508****************************
+主营业务:1.3
+速度:1.29412
+国际:1.29167*****************************
+物流:1.28571****************************
+漆包线:1.28571**************************
+至:1.27586
+电站:1.26667*************************
+黄磷:1.25**************************
+生产商:1.25
+产业化:1.25
+分析:1.25
+己内酰胺:1.25**********************
+控制器:1.25**********************
+含:1.25
+软件:1.25**********************
+账期:1.25
+设备:1.25
+致使:1.25
+养殖场:1.25**********************
+氟:1.25***********************
+上述:1.23077
+地区:1.23077
+带来:1.22222
+零部件:1.22222
+规模:1.22
+本次:1.21429
+资格:1.2
+能耗:1.2
+环节:1.2
+深入:1.2
+而且:1.2
+转换:1.2
+液化:1.2************************
+LED:1.2**********************
+运营商:1.2
+分布:1.1875
+作为:1.1875
+到:1.17857
+立足:1.16667
+最终:1.16667
+预测:1.16667
+团队:1.15385
+从:1.14815
+依赖:1.14286
+呈:1.14286
+电池:1.13978***********************
+化学品:1.125***********************
+装置:1.11765
+增长:1.11475
+工作:1.11111
+设施:1.11111
+如下:1.11111
+规模化:1.1
+属于:1.1
+从而:1.1
+标的:1.09524
+由于:1.07071
+产业链:1.06667
+基地:1.06667
+铝:1.0625**********************
+光学膜:1.05556********************
+环保:1.04545********************
+上游:1.04518
+研发:1.03279
+由:1.025
+以及:1.01613
+==========================================================
+同行业:1.0
+数量:1.0
+容量:1.0
+特定:1.0
+幅度:1.0
+外部:1.0
+月:1.0
+非公开:1.0
+故:1.0
+钨:1.0
+不可:1.0
+操作:1.0
+交流:1.0
+参股:1.0
+培训:1.0
+链条:1.0
+供热:1.0
+初期:1.0
+地带:1.0
+相关性:1.0
+人才:1.0
+科研:1.0
+除:1.0
+我:1.0
+对象:1.0
+主导:1.0
+贸易:1.0
+链向:1.0
+IC:1.0
+则:1.0
+参与:1.0
+达到:1.0
+ALBO:1.0
+选定:1.0
+烧碱:1.0**************************
+产区:1.0
+推广:1.0
+供:1.0
+广告:1.0
+合成:1.0
+升级:1.0
+加之:1.0
+终端:0.9899
+提升:0.97872
+具有:0.975
+产业:0.96324
+我国:0.96154
+原料:0.95745
+国家:0.9375
+有:0.92063
+公司:0.91992
+及:0.91816
+谈判:0.91667
+代理商:0.91667
+效益:0.91667
+发展:0.90957
+预计:0.90909
+高端:0.90909
+拥有:0.90476
+研究:0.90476
+促进:0.9
+锂离子:0.89583***********************
+上市:0.89286
+提出:0.88889
+低迷:0.88889
+皖维:0.88235
+家:0.88
+其:0.87603
+并且:0.875
+桥梁:0.875
+丙烯腈:0.875*******************************
+比:0.875
+移动:0.875
+技术:0.875
+延伸:0.87255
+光电:0.86667**************************
+可能:0.86364
+项:0.85714
+募集:0.85714
+磷:0.85714*************************
+单位:0.85714
+蒸汽:0.85714
+设计:0.85714
+显示:0.85714
+特性:0.85714
+因为:0.85714
+化妆品:0.83333
+获得:0.83333
+份额:0.83333
+若:0.83333
+覆盖:0.83333
+模式:0.83333
+手游:0.83333**************************
+和:0.83087
+玻纤:0.81818**************************
+国内:0.81818
+简称:0.81818
+双刃剑:0.8125
+提高:0.8125
+导致:0.80645
+附加值:0.80645
+供应链:0.80282
+厂商:0.80189
+金融:0.8
+管道:0.8
+进展:0.8
+子公司:0.8
+占:0.8
+纸袋:0.8**********************
+类:0.8
+门槛:0.8
+回收:0.8
+负责:0.8
+进而:0.8
+外:0.8
+开发:0.79798
+产品:0.79423
+业绩:0.79167
+能:0.78788
+基础:0.77083
+领域:0.76471
+下降:0.75758
+聚乙烯醇:0.75362***************************
+计划:0.75
+个人:0.75
+有着:0.75
+两头:0.75
+江:0.75
+刺激:0.75
+制药:0.75***********************
+光通信:0.75*************************
+完成:0.75
+除了:0.75
+救生:0.75
+后续:0.75
+中断:0.75
+公共:0.75
+驱动:0.75
+陶厂:0.75
+供给量:0.75
+兴建:0.75
+新建:0.75
+中国:0.74359
+之一:0.73333
+起:0.72727
+才:0.72727
+一定:0.72727
+停产:0.72727
+投资:0.7193
+提供:0.71831
+出现:0.71739
+聚氯乙烯:0.71429*************************
+构成:0.71429
+转型:0.71429
+萎缩:0.71429
+产能:0.71171
+融资:0.70588
+存在:0.7037
+处:0.7037
+锆:0.7
+收购:0.7
+掌控:0.7
+与:0.7
+趋势:0.69565
+考虑:0.69565
+国内外:0.69231
+以下:0.69231
+一方面:0.68421
+处于:0.67742
+服务:0.67143
+需求:0.67123
+锂:0.66667************************
+稳定性:0.66667
+开辟:0.66667
+各个:0.66667
+光纤:0.66667************************
+支撑:0.66667
+集团:0.66667
+焦煤:0.66667*************************
+范围:0.66667
+食品:0.66667***********************
+即:0.66667
+合资:0.66667
+超过:0.66667
+奠定:0.66667
+同类:0.66667
+运力:0.66667
+资源型:0.66667
+伙伴:0.66667
+可持续性:0.66667
+刚性:0.66667
+负面:0.66667
+天然:0.66667
+气:0.66667
+上升:0.66667
+探索:0.66667
+变更:0.66667
+节能:0.66667
+有利于:0.65517
+下游:0.65411
+持续:0.64
+用途:0.63636
+方案:0.63158
+基于:0.625
+下跌:0.625
+工业级:0.625
+且:0.62069
+有机硅:0.62069*************************
+目前:0.61905
+周期:0.61905
+竞争:0.61538
+需要:0.61111
+效率:0.6
+百分点:0.6
+粮源:0.6
+甲苯:0.6**************************
+设立:0.6
+塑料:0.6****************************
+扩张:0.6
+面向:0.6
+股权:0.6
+限制:0.6
+品牌:0.6
+自:0.6
+不仅:0.6
+华润赛科:0.6
+复合肥:0.6***********************
+苏州:0.58333
+化学:0.58333**************************
+过程:0.57895
+优质:0.57778
+铜:0.57143******************
+虽然:0.57143
+钢材:0.57143***************************
+平台:0.57143
+优化:0.57143
+人工:0.57143
+合同:0.57143
+选矿:0.57143
+未来:0.57143
+扩展:0.57143
+要求:0.56863
+形成:0.56
+销售:0.55769
+协议:0.55556
+亏损:0.55556
+天津:0.55556
+挤压:0.55556
+拉动:0.55556
+港口:0.55
+后:0.55
+可:0.54762
+竞争力:0.54545
+季节性:0.54545
+自身:0.54167
+新兴:0.53846
+消费者:0.53333
+中:0.53271
+上:0.52778
+经销商:0.52632
+工艺:0.52632
+优势:0.52381
+集中度:0.52174
+进行:0.51471
+经营:0.51316

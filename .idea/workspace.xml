@@ -1,0 +1,1247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="85cc4a12-6243-40aa-b87c-dfe41a7d791b" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/entailment_data/all_data.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/entailment_data/fiction_data.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/entailment_data/gov_data.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/entailment_data/multinli_1.0_train.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/entailment_data/slate_data.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/entailment_data/tele_data.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/entailment_data/travel_data.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/helloworld.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/output_result/dimension_weights" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/output_result/up_down_stream.model" afterPath="$PROJECT_DIR$/output_result/up_down_stream.model" />
+      <change beforePath="$PROJECT_DIR$/output_result/up_down_stream.vector" afterPath="$PROJECT_DIR$/output_result/up_down_stream.vector" />
+      <change beforePath="$PROJECT_DIR$/sent2vec_cmp/r_1" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/sent2vec_cmp/r_10" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/sent2vec_cmp/r_2" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/sent2vec_cmp/r_3" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/sent2vec_cmp/r_4" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/sent2vec_cmp/r_5" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/sent2vec_cmp/r_6" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/sent2vec_cmp/r_7" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/sent2vec_cmp/r_8" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/sent2vec_cmp/r_9" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/sent2vec_cmp/war_1.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/sent2vec_cmp/war_10.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/sent2vec_cmp/war_11.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/sent2vec_cmp/war_2.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/sent2vec_cmp/war_3.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/sent2vec_cmp/war_4.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/sent2vec_cmp/war_5.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/sent2vec_cmp/war_6.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/sent2vec_cmp/war_7.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/sent2vec_cmp/war_8.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/sent2vec_cmp/war_9.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/sentence_classifier/word2vec_research.py" afterPath="$PROJECT_DIR$/sentence_classifier/word2vec_research.py" />
+      <change beforePath="$PROJECT_DIR$/sentence_classifier/word2vec_test.py" afterPath="$PROJECT_DIR$/sentence_classifier/word2vec_test.py" />
+      <change beforePath="$PROJECT_DIR$/sentence_entailment/__init__.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/sentence_entailment/classifier.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/sentence_entailment/classifier_data/tfidf_weight_sum.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/sentence_entailment/data_processor.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/sentence_entailment/model_and_vector/gov.model" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/sentence_entailment/model_and_vector/gov.vector" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/svm_data/svm_word_sum_data.txt" afterPath="$PROJECT_DIR$/svm_data/svm_word_sum_data.txt" />
+      <change beforePath="$PROJECT_DIR$/word_freq_calculator.py" afterPath="$PROJECT_DIR$/word_freq_calculator.py" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/SentenceClassification$processor.coverage" NAME="processor Coverage Results" MODIFIED="1538278165344" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MyPythonApplication$helloworld.coverage" NAME="helloworld Coverage Results" MODIFIED="1529841096269" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MyPythonApplication$word2vec_test.coverage" NAME="svm Coverage Results" MODIFIED="1530096585194" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/SentenceClassification$process_review.coverage" NAME="process_review Coverage Results" MODIFIED="1538635546429" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MyPythonApplication$svm.coverage" NAME="svm Coverage Results" MODIFIED="1531571359278" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MyPythonApplication$processor.coverage" NAME="processor Coverage Results" MODIFIED="1530262973957" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MyPythonApplication$lda.coverage" NAME="lda Coverage Results" MODIFIED="1530333912063" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/SentenceClassification$word2vec.coverage" NAME="word2vec Coverage Results" MODIFIED="1539154688859" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/SentenceClassification$lstm.coverage" NAME="lstm Coverage Results" MODIFIED="1533370996738" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lstm" />
+    <SUITE FILE_PATH="coverage/MyPythonApplication$word2vec.coverage" NAME="word2vec Coverage Results" MODIFIED="1531571300609" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MyPythonApplication$lda2.coverage" NAME="lda2 Coverage Results" MODIFIED="1530153401741" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MyPythonApplication$topic_word2vec.coverage" NAME="topic_word2vec Coverage Results" MODIFIED="1531385572205" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/SentenceClassification$entailment_clf.coverage" NAME="entailment_clf Coverage Results" MODIFIED="1534820491461" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sentence_entailment" />
+    <SUITE FILE_PATH="coverage/SentenceClassification$svm.coverage" NAME="svm Coverage Results" MODIFIED="1538635879537" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/SentenceClassification$process_data.coverage" NAME="process_data Coverage Results" MODIFIED="1534820374175" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sentence_entailment" />
+    <SUITE FILE_PATH="coverage/SentenceClassification$test.coverage" NAME="test Coverage Results" MODIFIED="1534995984150" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sentence_classifier" />
+    <SUITE FILE_PATH="coverage/SentenceClassification$w2v_research.coverage" NAME="w2v_research Coverage Results" MODIFIED="1538286598571" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/SentenceClassification$process_word.coverage" NAME="process_word Coverage Results" MODIFIED="1539092037251" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="SentenceClassification" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="word_freq_calculator.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/word_freq_calculator.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <element signature="e#27#122#0" expanded="true" />
+                <element signature="e#211#1291#0" expanded="false" />
+                <element signature="e#1347#1447#0" expanded="false" />
+                <element signature="e#1504#1933#0" expanded="false" />
+                <element signature="e#1996#2851#0" expanded="false" />
+                <element signature="e#2948#4127#0" expanded="false" />
+                <element signature="e#4175#4213#0" expanded="false" />
+                <element signature="e#4313#5022#0" expanded="false" />
+                <element signature="e#5179#5562#0" expanded="false" />
+                <element signature="e#5624#5767#0" expanded="false" />
+                <element signature="e#5835#7275#0" expanded="false" />
+                <element signature="e#7357#7764#0" expanded="false" />
+                <element signature="e#7871#8722#0" expanded="false" />
+                <element signature="e#8841#9236#0" expanded="false" />
+                <element signature="e#9313#9778#0" expanded="false" />
+                <element signature="e#9932#10600#0" expanded="false" />
+                <element signature="e#10661#12563#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="word2vec_research.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sentence_classifier/word2vec_research.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="568" column="5" lean-forward="false" selection-start-line="568" selection-start-column="5" selection-end-line="568" selection-end-column="5" />
+              <folding>
+                <element signature="e#989#3084#0" expanded="false" />
+                <element signature="e#3135#3598#0" expanded="false" />
+                <element signature="e#3665#3875#0" expanded="false" />
+                <element signature="e#4047#6471#0" expanded="false" />
+                <element signature="e#9438#11836#0" expanded="false" />
+                <element signature="e#11967#12684#0" expanded="false" />
+                <element signature="e#12795#13629#0" expanded="false" />
+                <element signature="e#13674#13914#0" expanded="false" />
+                <element signature="e#13971#14108#0" expanded="false" />
+                <element signature="e#14157#14366#0" expanded="false" />
+                <element signature="e#14532#15723#0" expanded="false" />
+                <element signature="e#15863#17064#0" expanded="false" />
+                <element signature="e#17122#17435#0" expanded="false" />
+                <element signature="e#17493#18423#0" expanded="false" />
+                <element signature="e#18483#19141#0" expanded="false" />
+                <element signature="e#19247#20444#0" expanded="false" />
+                <element signature="e#21244#22848#0" expanded="false" />
+                <element signature="e#23005#24154#0" expanded="false" />
+                <element signature="e#24222#24796#0" expanded="false" />
+                <element signature="e#24925#25199#0" expanded="false" />
+                <element signature="e#25308#25420#0" expanded="false" />
+                <element signature="e#25486#26380#0" expanded="false" />
+                <element signature="e#26441#27641#0" expanded="false" />
+                <element signature="e#27806#30176#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="topic_based_word2vec.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sentence_classifier/topic_based_word2vec.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="review_processor.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/review_processor.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <element signature="e#166#648#0" expanded="false" />
+                <element signature="e#702#1239#0" expanded="false" />
+                <element signature="e#1300#1397#0" expanded="false" />
+                <element signature="e#1465#1637#0" expanded="false" />
+                <element signature="e#1741#2482#0" expanded="false" />
+                <element signature="e#2551#3853#0" expanded="false" />
+                <element signature="e#3931#4363#0" expanded="false" />
+                <element signature="e#4415#4567#0" expanded="false" />
+                <element signature="e#4656#4833#0" expanded="false" />
+                <element signature="e#4929#6686#0" expanded="false" />
+                <element signature="e#6798#8703#0" expanded="false" />
+                <element signature="e#8815#9613#0" expanded="false" />
+                <element signature="e#9728#10414#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="word2vec_test.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sentence_classifier/word2vec_test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="572">
+              <caret line="26" column="40" lean-forward="false" selection-start-line="26" selection-start-column="40" selection-end-line="26" selection-end-column="40" />
+              <folding>
+                <element signature="e#52#86#0" expanded="true" />
+                <element signature="e#762#1113#0" expanded="false" />
+                <element signature="e#1233#2553#0" expanded="false" />
+                <element signature="e#2656#6581#0" expanded="false" />
+                <element signature="e#6697#9030#0" expanded="false" />
+                <element signature="e#9104#9837#0" expanded="false" />
+                <element signature="e#9933#11695#0" expanded="false" />
+                <element signature="e#11795#13138#0" expanded="false" />
+                <element signature="e#13250#14370#0" expanded="false" />
+                <element signature="e#14467#14947#0" expanded="false" />
+                <element signature="e#14950#15004#0" expanded="false" />
+                <element signature="e#15100#15766#0" expanded="false" />
+                <element signature="e#15845#16965#0" expanded="false" />
+                <element signature="e#17037#17528#0" expanded="false" />
+                <element signature="e#17574#18148#0" expanded="false" />
+                <element signature="e#18219#18356#0" expanded="false" />
+                <element signature="e#18445#18993#0" expanded="false" />
+                <element signature="e#19036#19287#0" expanded="false" />
+                <element signature="e#19340#19480#0" expanded="false" />
+                <element signature="e#19579#19860#0" expanded="false" />
+                <element signature="e#19949#20069#0" expanded="false" />
+                <element signature="e#20132#20449#0" expanded="false" />
+                <element signature="e#20529#21123#0" expanded="false" />
+                <element signature="e#21158#21200#0" expanded="false" />
+                <element signature="e#21259#21649#0" expanded="false" />
+                <element signature="e#21742#21879#0" expanded="false" />
+                <element signature="e#21941#22477#0" expanded="false" />
+                <element signature="e#22551#22712#0" expanded="false" />
+                <element signature="e#22808#23151#0" expanded="false" />
+                <element signature="e#23214#24064#0" expanded="false" />
+                <element signature="e#24145#24254#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="negative_sent_sample" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/training_data/negative_sent_sample">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="positive_sent_sample" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/training_data/positive_sent_sample">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>属于 上游 类 行业</find>
+      <find>IP</find>
+      <find>位于 尾矿 初期 坝 下游</find>
+      <find>使 公司 聚乙烯醇 光学 薄膜 膜用 聚乙烯醇缩丁醛 树脂 进入 下游</find>
+      <find>使 公司 聚乙烯醇聚乙烯醇 光学 薄膜 膜用 聚乙烯醇缩丁醛 树脂 进入 下游</find>
+      <find>中药材</find>
+      <find>中游 制造 企业 原材料 自给率 提升 1</find>
+      <find>生产者</find>
+      <find>最低点 为 东南 角 西河 下游 石家河</find>
+      <find>4</find>
+      <find>香港</find>
+      <find>双斱 处 亍锂 产业链 中游 和 下游</find>
+      <find>通信 终端 制造 企业 与 上游 结构件 企业 距离 通信 终端 制造 服务商 与 下游 品牌 商 距离 对 运输 成本 影响</find>
+      <find>乏善可陈</find>
+      <find>附加值</find>
+      <find>距 上游 察汗 乌苏 水电站</find>
+      <find>增加 多个 百分点 传统 下游 下滑</find>
+      <find>杉杉 开始 往 下游 发展</find>
+      <find>下游 消费 产业 发展 速度 于 上游 产业</find>
+      <find>芳烃</find>
+      <find>元</find>
+      <find>&quot;</find>
+      <find>warrantee</find>
+      <find>warrante</find>
+      <find>write_one</find>
+      <find>recommend</find>
+      <find>ipad=</find>
+      <find>saladstwo</find>
+      <find>is</find>
+      <find>using_sw_and_half_freq3</find>
+    </findStrings>
+    <dirStrings>
+      <dir>D:\Python\SentenceClassification\sentence_classifier\svm_data</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/testing_data/svm_testing_data.txt" />
+        <option value="$PROJECT_DIR$/testing_data/temp" />
+        <option value="$PROJECT_DIR$/training_data/sougou_training_data/extracted_news.txt" />
+        <option value="$PROJECT_DIR$/text.txt" />
+        <option value="$PROJECT_DIR$/training_data/subsample" />
+        <option value="$PROJECT_DIR$/training_data/positive_unique_sent_sample" />
+        <option value="$PROJECT_DIR$/filter_words/temp" />
+        <option value="$PROJECT_DIR$/training_data/positive_sent_sample" />
+        <option value="$PROJECT_DIR$/filter_words/stop_words" />
+        <option value="$PROJECT_DIR$/topic-based word2vec.py" />
+        <option value="$PROJECT_DIR$/training_data/topic_based_corpus" />
+        <option value="$PROJECT_DIR$/topic_based_word2vec.py" />
+        <option value="$PROJECT_DIR$/text_processor.py" />
+        <option value="$PROJECT_DIR$/svm_data/svm_word_sum_data.txt" />
+        <option value="$PROJECT_DIR$/lda_test.py" />
+        <option value="$PROJECT_DIR$/svm_data/svm_all_features_data.txt" />
+        <option value="$PROJECT_DIR$/pos_neg_vecs/neg_vecs" />
+        <option value="$PROJECT_DIR$/training_data/sim_sents" />
+        <option value="$PROJECT_DIR$/training_data/sim_sents_index" />
+        <option value="$PROJECT_DIR$/training_data/seg_sent_with_label" />
+        <option value="$PROJECT_DIR$/word2vec_test.py" />
+        <option value="$PROJECT_DIR$/helloworld.py" />
+        <option value="$PROJECT_DIR$/lstm/lstm_model.py" />
+        <option value="$PROJECT_DIR$/svm_test.py" />
+        <option value="$PROJECT_DIR$/output_result/dimension_weights" />
+        <option value="$PROJECT_DIR$/helper.py" />
+        <option value="$PROJECT_DIR$/word2vec_research.py" />
+        <option value="$PROJECT_DIR$/filter_words/eg" />
+        <option value="$PROJECT_DIR$/sentence_entailment/classifier.py" />
+        <option value="$PROJECT_DIR$/sentence_classifier/test.py" />
+        <option value="$PROJECT_DIR$/train_test_data/test_text" />
+        <option value="$PROJECT_DIR$/sentence_classifier/helper.py" />
+        <option value="$PROJECT_DIR$/train_test_data/predicted_test_text" />
+        <option value="$PROJECT_DIR$/filter_words/moved_words" />
+        <option value="$PROJECT_DIR$/train_test_data/train_text" />
+        <option value="$PROJECT_DIR$/filter_words/moved_words_by_freq" />
+        <option value="$PROJECT_DIR$/training_data/seg_sent_with_label3" />
+        <option value="$PROJECT_DIR$/training_data/seg_sent_without_label" />
+        <option value="$PROJECT_DIR$/training_data/seg_sent_with_label2" />
+        <option value="$PROJECT_DIR$/sentence_entailment/data_processor.py" />
+        <option value="$PROJECT_DIR$/entailment_data/gov_data.txt" />
+        <option value="$PROJECT_DIR$/yelp_reviews/review.json" />
+        <option value="$PROJECT_DIR$/yelp_reviews/yelp_review1" />
+        <option value="$PROJECT_DIR$/yelp_glove/stop_words" />
+        <option value="$PROJECT_DIR$/sentence_classifier/svm_test.py" />
+        <option value="$PROJECT_DIR$/sentence_classifier/text_processor.py" />
+        <option value="$PROJECT_DIR$/sentence_classifier/lda_test.py" />
+        <option value="$PROJECT_DIR$/word_freq_calculator.py" />
+        <option value="$PROJECT_DIR$/review_processor.py" />
+        <option value="$PROJECT_DIR$/sentence_classifier/word2vec_test.py" />
+        <option value="$PROJECT_DIR$/sentence_classifier/word2vec_research.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="930" />
+    <option name="height" value="958" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="Scope" currentSubView="Project Files" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <expand>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="Open_Source_Final_Work" type="cbb8eebc:String" user="Open_Source_Final_Work" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="SentenceClassification" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SentenceClassification" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SentenceClassification" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SentenceClassification" type="462c0819:PsiDirectoryNode" />
+              <item name="filter_words" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SentenceClassification" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SentenceClassification" type="462c0819:PsiDirectoryNode" />
+              <item name="output_result" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SentenceClassification" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SentenceClassification" type="462c0819:PsiDirectoryNode" />
+              <item name="training_data" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SentenceClassification" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="com.intellij.database.dataSource.DataSourceTemplate" value="Sqlite (Xerial)" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Python\SentenceClassification\sent2vec_cmp" />
+      <recent name="D:\Python\SentenceClassification\train_test_data" />
+      <recent name="D:\Python\SentenceClassification\entailment_data" />
+      <recent name="D:\Python\MyPythonApplication\training_data\sougou_training_data" />
+      <recent name="D:\Python\MyPythonApplication\filter_words" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Python\SentenceClassification\yelp_reviews\yelp_train_test" />
+      <recent name="D:\Python\SentenceClassification" />
+      <recent name="D:\Python\SentenceClassification\sentence_classifier" />
+      <recent name="D:\Python\MyPythonApplication\testing_data" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.word2vec">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="MyPythonApplication" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/helloworld.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="entailment_clf" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:\Python\SentenceClassification\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/sentence_entailment" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="SentenceClassification" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sentence_entailment/classifier.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="lda" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:\Python\SentenceClassification\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="SentenceClassification" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="D:\Python\SentenceClassification\sentence_classifier\lda_test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="process_data" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/sentence_entailment" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="SentenceClassification" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sentence_entailment/data_processor.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="process_review" type="PythonConfigurationType" factoryName="Python" activateToolWindowBeforeRun="false">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:\Python\SentenceClassification\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="SentenceClassification" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/review_processor.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="process_word" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:\Python\SentenceClassification\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="SentenceClassification" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/word_freq_calculator.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="processor" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:\Python\SentenceClassification\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="SentenceClassification" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="D:\Python\SentenceClassification\sentence_classifier\text_processor.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="svm" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:\Python\SentenceClassification\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="SentenceClassification" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="D:\Python\SentenceClassification\sentence_classifier\svm_test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/sentence_classifier" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="SentenceClassification" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="D:\Python\SentenceClassification\test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="topic_word2vec" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="PYDEVD_LOAD_VALUES_ASYNC" value="True" />
+      </envs>
+      <option name="SDK_HOME" value="D:\Python\SentenceClassification\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="SentenceClassification" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="D:\Python\SentenceClassification\sentence_classifier\topic_based_word2vec.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="w2v_research" type="PythonConfigurationType" factoryName="Python" activateToolWindowBeforeRun="false">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="PYDEVD_LOAD_VALUES_ASYNC" value="True" />
+      </envs>
+      <option name="SDK_HOME" value="D:\Python\SentenceClassification\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="SentenceClassification" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="D:\Python\SentenceClassification\sentence_classifier\word2vec_research.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="word2vec" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:\Python\SentenceClassification\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="SentenceClassification" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="D:\Python\SentenceClassification\sentence_classifier\word2vec_test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <list size="11">
+      <item index="0" class="java.lang.String" itemvalue="Python.lda" />
+      <item index="1" class="java.lang.String" itemvalue="Python.processor" />
+      <item index="2" class="java.lang.String" itemvalue="Python.process_word" />
+      <item index="3" class="java.lang.String" itemvalue="Python.process_review" />
+      <item index="4" class="java.lang.String" itemvalue="Python.topic_word2vec" />
+      <item index="5" class="java.lang.String" itemvalue="Python.w2v_research" />
+      <item index="6" class="java.lang.String" itemvalue="Python.test" />
+      <item index="7" class="java.lang.String" itemvalue="Python.process_data" />
+      <item index="8" class="java.lang.String" itemvalue="Python.entailment_clf" />
+      <item index="9" class="java.lang.String" itemvalue="Python.word2vec" />
+      <item index="10" class="java.lang.String" itemvalue="Python.svm" />
+    </list>
+    <recent_temporary>
+      <list size="2">
+        <item index="0" class="java.lang.String" itemvalue="Python.word2vec" />
+        <item index="1" class="java.lang.String" itemvalue="Python.svm" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="85cc4a12-6243-40aa-b87c-dfe41a7d791b" name="Default" comment="" />
+      <created>1513738879567</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1513738879567</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-9" y="-9" width="1938" height="1048" extended-state="7" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295583" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.38505095" sideWeight="0.5064378" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19420601" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" x="0" y="0" width="434" height="848" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295583" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32842582" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33182332" sideWeight="0.49356222" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295583" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27950644" sideWeight="0.49150622" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3299356" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32842582" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4340129" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33154505" sideWeight="0.5084938" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.398641" sideWeight="0.49570817" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295583" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.42015857" sideWeight="0.50429183" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20869099" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" x="0" y="0" width="434" height="848" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295583" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32842582" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4416761" sideWeight="0.49570817" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295583" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.37875536" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3299356" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32842582" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27575108" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.50056624" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/lstm/lstm_model.py</url>
+          <line>51</line>
+          <option name="timeStamp" value="214" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+      <option name="time" value="467" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="watch">
+      <expression>
+        <expression-string>train_labels[306]</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>train_vecs[306]</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>train_sents[306]</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>vec[i]</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>train_label</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>train_vec</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>p_sents[929]</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>labeled_list[7773]</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>labeled_list[7774]</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>p_vecs[600]</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/pos_neg_vecs/pos_vecs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/training_data/topic_based_corpus">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yelp_train_test/test_vec" />
+    <entry file="file://$PROJECT_DIR$/yelp_train_test/train_vec" />
+    <entry file="file://$PROJECT_DIR$/training_data/sim_sents">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/training_data/sim_sents_index">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/training_data/sim_sents_index2">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/training_data/sim_sents2">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yelp_train_test/sim_sents_index2" />
+    <entry file="file://$PROJECT_DIR$/yelp_reviews/yelp_review_1/same_cat_num_data" />
+    <entry file="file://$PROJECT_DIR$/filter_words/stop_words">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yelp_glove/glove.840B.300d.txt">
+      <provider selected="true" editor-type-id="LargeFileEditor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yelp_reviews/yelp_train_test/using_sw_and_half_freq3">
+      <provider selected="true" editor-type-id="LargeFileEditor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yelp_reviews/yelp_review_1/yelp_review3">
+      <provider selected="true" editor-type-id="LargeFileEditor">
+        <state relative-caret-position="104">
+          <caret line="763" column="2345" lean-forward="true" selection-start-line="763" selection-start-column="2345" selection-end-line="763" selection-end-column="2345" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yelp_reviews/yelp_review_1/yelp_review2">
+      <provider selected="true" editor-type-id="LargeFileEditor">
+        <state relative-caret-position="104">
+          <caret line="50" column="302" lean-forward="false" selection-start-line="50" selection-start-column="302" selection-end-line="50" selection-end-column="302" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/sklearn/svm/classes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="103">
+          <caret line="170" column="8" lean-forward="false" selection-start-line="170" selection-start-column="8" selection-end-line="170" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/sklearn/tree/tree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="172">
+          <caret line="719" column="8" lean-forward="false" selection-start-line="719" selection-start-column="8" selection-end-line="719" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/sklearn/ensemble/forest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21804">
+          <caret line="973" column="8" lean-forward="false" selection-start-line="973" selection-start-column="8" selection-end-line="973" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yelp_glove/glove.6B.100d.txt">
+      <provider selected="true" editor-type-id="LargeFileEditor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yelp_reviews/yelp_train_test/normal_with_300d_we">
+      <provider selected="true" editor-type-id="LargeFileEditor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yelp_glove/stop_words">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4876">
+          <caret line="212" column="3" lean-forward="false" selection-start-line="212" selection-start-column="3" selection-end-line="212" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yelp_reviews/yelp_train_test/normal_with_100d_we">
+      <provider selected="true" editor-type-id="LargeFileEditor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yelp_reviews/yelp_train_test/using_sw_normal_with_more_we">
+      <provider selected="true" editor-type-id="LargeFileEditor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sentence_classifier/svm_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1426">
+          <caret line="107" column="4" lean-forward="false" selection-start-line="107" selection-start-column="4" selection-end-line="107" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yelp_reviews/yelp_review1">
+      <provider selected="true" editor-type-id="LargeFileEditor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yelp_reviews/yelp_academic_dataset_review.json">
+      <provider selected="true" editor-type-id="LargeFileEditor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sent2vec_cmp/after_1" />
+    <entry file="file://$PROJECT_DIR$/sent2vec_cmp/org_1" />
+    <entry file="file://$PROJECT_DIR$/sent2vec_cmp/war_2.txt" />
+    <entry file="file://$PROJECT_DIR$/sent2vec_cmp/war_11.txt" />
+    <entry file="file://$PROJECT_DIR$/sent2vec_cmp/war_1.txt" />
+    <entry file="file://$PROJECT_DIR$/sent2vec_cmp/war_8.txt" />
+    <entry file="file://$PROJECT_DIR$/sent2vec_cmp/r_8" />
+    <entry file="file://$PROJECT_DIR$/sent2vec_cmp/neg_w_2_tm.txt" />
+    <entry file="file://$PROJECT_DIR$/sent2vec_cmp/neg_w_11_tm.txt" />
+    <entry file="file://$PROJECT_DIR$/sent2vec_cmp/neg_war_11_tm.txt" />
+    <entry file="file://$PROJECT_DIR$/sent2vec_cmp/r_1" />
+    <entry file="file://$PROJECT_DIR$/sent2vec_cmp/r_10" />
+    <entry file="file://$PROJECT_DIR$/sent2vec_cmp/r_2" />
+    <entry file="file://$PROJECT_DIR$/sent2vec_cmp/war_11_tm.txt" />
+    <entry file="file://$PROJECT_DIR$/sentence_classifier/lda_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sentence_classifier/text_processor.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sentence_classifier/topic_based_word2vec.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/svm_data/svm_word_sum_data.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sentence_classifier/word2vec_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="572">
+          <caret line="26" column="40" lean-forward="false" selection-start-line="26" selection-start-column="40" selection-end-line="26" selection-end-column="40" />
+          <folding>
+            <element signature="e#52#86#0" expanded="true" />
+            <element signature="e#762#1113#0" expanded="false" />
+            <element signature="e#1233#2553#0" expanded="false" />
+            <element signature="e#2656#6581#0" expanded="false" />
+            <element signature="e#6697#9030#0" expanded="false" />
+            <element signature="e#9104#9837#0" expanded="false" />
+            <element signature="e#9933#11695#0" expanded="false" />
+            <element signature="e#11795#13138#0" expanded="false" />
+            <element signature="e#13250#14370#0" expanded="false" />
+            <element signature="e#14467#14947#0" expanded="false" />
+            <element signature="e#14950#15004#0" expanded="false" />
+            <element signature="e#15100#15766#0" expanded="false" />
+            <element signature="e#15845#16965#0" expanded="false" />
+            <element signature="e#17037#17528#0" expanded="false" />
+            <element signature="e#17574#18148#0" expanded="false" />
+            <element signature="e#18219#18356#0" expanded="false" />
+            <element signature="e#18445#18993#0" expanded="false" />
+            <element signature="e#19036#19287#0" expanded="false" />
+            <element signature="e#19340#19480#0" expanded="false" />
+            <element signature="e#19579#19860#0" expanded="false" />
+            <element signature="e#19949#20069#0" expanded="false" />
+            <element signature="e#20132#20449#0" expanded="false" />
+            <element signature="e#20529#21123#0" expanded="false" />
+            <element signature="e#21158#21200#0" expanded="false" />
+            <element signature="e#21259#21649#0" expanded="false" />
+            <element signature="e#21742#21879#0" expanded="false" />
+            <element signature="e#21941#22477#0" expanded="false" />
+            <element signature="e#22551#22712#0" expanded="false" />
+            <element signature="e#22808#23151#0" expanded="false" />
+            <element signature="e#23214#24064#0" expanded="false" />
+            <element signature="e#24145#24254#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/training_data/negative_sent_sample">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/training_data/positive_sent_sample">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output_result/dimension_weights">
+      <provider selected="true" editor-type-id="LargeFileEditor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sentence_classifier/word2vec_research.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="568" column="5" lean-forward="false" selection-start-line="568" selection-start-column="5" selection-end-line="568" selection-end-column="5" />
+          <folding>
+            <element signature="e#989#3084#0" expanded="false" />
+            <element signature="e#3135#3598#0" expanded="false" />
+            <element signature="e#3665#3875#0" expanded="false" />
+            <element signature="e#4047#6471#0" expanded="false" />
+            <element signature="e#9438#11836#0" expanded="false" />
+            <element signature="e#11967#12684#0" expanded="false" />
+            <element signature="e#12795#13629#0" expanded="false" />
+            <element signature="e#13674#13914#0" expanded="false" />
+            <element signature="e#13971#14108#0" expanded="false" />
+            <element signature="e#14157#14366#0" expanded="false" />
+            <element signature="e#14532#15723#0" expanded="false" />
+            <element signature="e#15863#17064#0" expanded="false" />
+            <element signature="e#17122#17435#0" expanded="false" />
+            <element signature="e#17493#18423#0" expanded="false" />
+            <element signature="e#18483#19141#0" expanded="false" />
+            <element signature="e#19247#20444#0" expanded="false" />
+            <element signature="e#21244#22848#0" expanded="false" />
+            <element signature="e#23005#24154#0" expanded="false" />
+            <element signature="e#24222#24796#0" expanded="false" />
+            <element signature="e#24925#25199#0" expanded="false" />
+            <element signature="e#25308#25420#0" expanded="false" />
+            <element signature="e#25486#26380#0" expanded="false" />
+            <element signature="e#26441#27641#0" expanded="false" />
+            <element signature="e#27806#30176#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/review_processor.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#166#648#0" expanded="false" />
+            <element signature="e#702#1239#0" expanded="false" />
+            <element signature="e#1300#1397#0" expanded="false" />
+            <element signature="e#1465#1637#0" expanded="false" />
+            <element signature="e#1741#2482#0" expanded="false" />
+            <element signature="e#2551#3853#0" expanded="false" />
+            <element signature="e#3931#4363#0" expanded="false" />
+            <element signature="e#4415#4567#0" expanded="false" />
+            <element signature="e#4656#4833#0" expanded="false" />
+            <element signature="e#4929#6686#0" expanded="false" />
+            <element signature="e#6798#8703#0" expanded="false" />
+            <element signature="e#8815#9613#0" expanded="false" />
+            <element signature="e#9728#10414#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/word_freq_calculator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#27#122#0" expanded="true" />
+            <element signature="e#211#1291#0" expanded="false" />
+            <element signature="e#1347#1447#0" expanded="false" />
+            <element signature="e#1504#1933#0" expanded="false" />
+            <element signature="e#1996#2851#0" expanded="false" />
+            <element signature="e#2948#4127#0" expanded="false" />
+            <element signature="e#4175#4213#0" expanded="false" />
+            <element signature="e#4313#5022#0" expanded="false" />
+            <element signature="e#5179#5562#0" expanded="false" />
+            <element signature="e#5624#5767#0" expanded="false" />
+            <element signature="e#5835#7275#0" expanded="false" />
+            <element signature="e#7357#7764#0" expanded="false" />
+            <element signature="e#7871#8722#0" expanded="false" />
+            <element signature="e#8841#9236#0" expanded="false" />
+            <element signature="e#9313#9778#0" expanded="false" />
+            <element signature="e#9932#10600#0" expanded="false" />
+            <element signature="e#10661#12563#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
