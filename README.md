@@ -27,7 +27,7 @@ Considering a sentence contains n words, we sum up all the vectors of n words wi
 We splitted sentence vectors into training set and testing set with proportion 4 : 1 using cross validation. We utilized precision, recall and f1-score as metric. 
 We chosed several popular and useful classifiers: <b>Logistic, SVM, Random Forest, Decision Tree</b> and <b>Extra Tree</b> to do classification on two dataset. Conveniently, Python sklearn provides all we need.
 ## Results
-The results of our classification is as follow:(Here we only show accuracy for simplification)
-             LR          SVM         DT         RF          ET
-dataset1     0.8815     0.9120     0.9294     0.9314      0.9353
-dataset2     0.6083     0.5692     0.4232     0.5223      0.5137
+The results of our classification is as follow:(Here we only show accuracy for simplification)<br><br>
+&emsp;&emsp;&emsp;&emsp;&emsp;LR&emsp;&emsp;&emsp;&emsp;&emsp;SVM&emsp;&emsp;&emsp;&emsp;&emsp;DT&emsp;&emsp;&emsp;&emsp;&emsp;RF&emsp;&emsp;&emsp;&emsp;&emsp;ET<br>
+dataset1&emsp;0.8815&emsp;&emsp;&emsp;0.9120&emsp;&emsp;&emsp;0.9294&emsp;&emsp;&emsp;0.9314&emsp;&emsp;&emsp;0.9353<br>
+dataset2&emsp;0.6083&emsp;&emsp;&emsp;0.5692&emsp;&emsp;&emsp;0.4232&emsp;&emsp;&emsp;0.5223&emsp;&emsp;&emsp;0.5137<br>
