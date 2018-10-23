@@ -32,4 +32,6 @@ The results of our classification is as follow:(Here we only show <b>accuracy</b
 Dataset1&emsp;0.8815&emsp;&emsp;&emsp;0.9120&emsp;&emsp;&emsp;0.9294&emsp;&emsp;&emsp;0.9314&emsp;&emsp;&emsp;0.9353<br>
 Dataset2&emsp;0.6083&emsp;&emsp;&emsp;0.5692&emsp;&emsp;&emsp;0.4232&emsp;&emsp;&emsp;0.5223&emsp;&emsp;&emsp;0.5137<br>
 ## Acknowledgement
-This project belongs to <b>Wuhan University Open-source Software Engineering</b>
+This project belongs to <b>Wuhan University Open-source Software Engineering</b>.<br>
+（本项目属于武汉大学开源软件工程项目）<br><br>
+Edited by LeBronBao.
